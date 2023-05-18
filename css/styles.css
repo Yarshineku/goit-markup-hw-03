@@ -177,3 +177,9 @@ body {
   border-bottom: 1px solid;
   border-color: #ececec;
 }
+
+.main-slogan {
+  background: #2f303a;
+  text-align: center;
+  padding: 200px 0;
+}
