@@ -1,0 +1,128 @@
+body {
+  font-family: Roboto, sans-serif;
+  background: #e5e5e5;
+
+  width: 1600px;
+  height: 2349px;
+}
+:root {
+  --brand-color: #2196f3 var(--brand-color);
+}
+
+.webstudio {
+  text-decoration: none;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+}
+.webstudio-2 {
+  text-decoration: none;
+}
+.web {
+  color: var(--brand-color, #2196f3);
+}
+.studio {
+  color: #000000;
+  text-decoration: none;
+}
+
+.first-text {
+  color: #ffffff;
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 280px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.link {
+  color: #212121;
+  text-decoration: none;
+}
+.link-tel-1 {
+  color: #757575;
+  text-decoration: none;
+}
+.link-tel-1:hover,
+.link-tel-1:focus {
+  color: var(--brand-color, #2196f3);
+}
+.link-tel-2 {
+  color: #757575;
+  text-decoration: none;
+}
+.link-tel-2:hover,
+.link-tel-2:focus {
+  color: var(--brand-color, #2196f3);
+}
+.link:hover,
+.link:focus {
+  color: var(--brand-color, #2196f3);
+}
+.button {
+  color: #ffffff;
+  cursor: pointer;
+}
+.button:hover,
+.button:focus {
+  color: var(--brand-color, #2196f3);
+  cursor: pointer;
+}
+.button-primary {
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 430px;
+  color: #ffffff;
+  background: var(--brand-color, #2196f3);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.heading-h2-1 {
+  width: 352px;
+  height: 42px;
+  font-family: "Roboto";
+  font-style: normal;
+}
+.heading-h2-2 {
+  width: 210px;
+  height: 42px;
+  font-family: "Roboto";
+  font-style: normal;
+}
+.e-mail {
+  color: #757575;
+  text-decoration: none;
+}
+.e-mail:hover,
+.e-mail:focus {
+  color: #2196f3;
+}
+.paragraph-text {
+  color: #757575;
+  cursor: pointer;
+}
+.paragraph-text:hover,
+.paragraph-text:focus {
+  color: #2196f3;
+  cursor: pointer;
+}
+
+.studio-2 {
+  color: #ffffff;
+}
