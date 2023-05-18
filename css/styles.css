@@ -126,3 +126,8 @@ body {
 .studio-2 {
   color: #ffffff;
 }
+
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
