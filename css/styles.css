@@ -55,6 +55,9 @@ body {
 .link-tel-1 {
   color: #757575;
   text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 .link-tel-1:hover,
 .link-tel-1:focus {
@@ -108,6 +111,11 @@ body {
 .e-mail {
   color: #757575;
   text-decoration: none;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+  gap: 50px;
+  margin-left: 371px;
 }
 .e-mail:hover,
 .e-mail:focus {
