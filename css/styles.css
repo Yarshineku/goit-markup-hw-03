@@ -32,7 +32,7 @@ body {
   text-decoration: none;
 }
 
-.first-text {
+.main-slogan {
   color: #ffffff;
   width: 696px;
   height: 120px;
@@ -42,10 +42,12 @@ body {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 1.5;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  margin: 0 auto;
+  margin-bottom: 30px;
 }
 
 .link {
@@ -178,7 +180,7 @@ body {
   border-color: #ececec;
 }
 
-.main-slogan {
+.main-box-slogan {
   background: #2f303a;
   text-align: center;
   padding: 200px 0;
