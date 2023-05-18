@@ -145,6 +145,11 @@ body {
   list-style: none;
 }
 .nav-links {
+  font-size: 14px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+  gap: 46px;
 }
 
 * {
