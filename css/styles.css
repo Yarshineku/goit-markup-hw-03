@@ -152,7 +152,6 @@ body {
 }
 
 .web-nav {
-  width: 254px;
   justify-content: space-between;
   align-items: center;
   gap: 30px;
