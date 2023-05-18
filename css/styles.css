@@ -136,8 +136,12 @@ body {
   width: 1200px;
 }
 
-• {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+.header-links {
+  width: 254px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  display: flex;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
