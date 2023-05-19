@@ -170,7 +170,7 @@ body {
 .ul-navigation {
   list-style: none;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .nav-links {
   font-size: 14px;
