@@ -384,3 +384,19 @@ body {
 .portfolio-buttons-decoration:focus {
   color: #2196f3;
 }
+
+.portfolio-list-boxes {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  margin-left: 0;
+}
+
+.portfolio-boxes {
+  background-color: #ffffff;
+  border: solid 1px;
+  border-color: #eeeeee;
+  margin: 0 auto;
+}
