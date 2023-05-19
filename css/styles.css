@@ -379,3 +379,8 @@ body {
   border: #f5f4fa;
   padding: 6px 25px;
 }
+
+.portfolio-buttons-decoration:hover,
+.portfolio-buttons-decoration:focus {
+  color: #2196f3;
+}
