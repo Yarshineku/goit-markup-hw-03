@@ -340,11 +340,15 @@ body {
   text-decoration: none;
 }
 
-.agency,
-.portfolio,
-.contact :hover,
-.agency,
-.portfolio,
-.contact:focus {
+.agency:hover,
+.agency:focus {
+  color: #2196f3;
+}
+
+.portfolio {
+  color: #2196f3;
+}
+
+.contact {
   color: #2196f3;
 }
