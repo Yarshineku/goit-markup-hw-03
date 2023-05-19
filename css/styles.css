@@ -362,3 +362,11 @@ body {
 .contact:focus {
   color: #2196f3;
 }
+
+.portfolio-buttons {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  padding: 0;
+}
