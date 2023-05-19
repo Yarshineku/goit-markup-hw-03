@@ -169,6 +169,7 @@ body {
 }
 .ul {
   list-style: none;
+  display: flex;
 }
 .nav-links {
   font-size: 14px;
