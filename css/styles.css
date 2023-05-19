@@ -345,10 +345,12 @@ body {
   color: #2196f3;
 }
 
-.portfolio {
+.portfolio:hover,
+.portfolio:focus {
   color: #2196f3;
 }
 
-.contact {
+.contact:hover,
+.contact:focus {
   color: #2196f3;
 }
