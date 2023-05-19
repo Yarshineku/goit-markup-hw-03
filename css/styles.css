@@ -192,7 +192,7 @@ body {
   padding: 200px 0;
 }
 
-.footer-interior {
+.footer-box {
   background: #2f303a;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -205,4 +205,11 @@ body {
   line-height: 1.2;
   margin-top: 20px;
   margin-bottom: 0;
+}
+
+.footer-interior {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
 }
