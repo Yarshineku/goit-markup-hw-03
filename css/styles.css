@@ -343,7 +343,8 @@ body {
 .agency,
 .portfolio,
 .contact :hover,
-.agency .portfolio,
+.agency,
+.portfolio,
 .contact:focus {
   color: #2196f3;
 }
