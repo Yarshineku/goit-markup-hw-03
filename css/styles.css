@@ -117,10 +117,18 @@ body {
   letter-spacing: 0.03em;
 }
 .heading-h2-2 {
-  font-size: 36px;
+  position: absolute;
+  width: 210px;
+  height: 42px;
+  left: 695px;
+  top: 1543px;
+
+  font-family: "Roboto";
+  font-style: normal;
   font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
   text-align: center;
-  line-height: 1;
   letter-spacing: 0.03em;
   margin-bottom: 50px;
 }
