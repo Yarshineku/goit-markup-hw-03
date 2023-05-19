@@ -167,9 +167,10 @@ body {
   justify-content: space-between;
   align-items: center;
 }
-.ul {
+.ul-navigation {
   list-style: none;
   display: flex;
+  justify-content: space-around;
 }
 .nav-links {
   font-size: 14px;
