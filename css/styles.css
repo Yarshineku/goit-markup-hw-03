@@ -142,6 +142,12 @@ body {
 .paragraph-text {
   color: #757575;
   cursor: pointer;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
 }
 .paragraph-text:hover,
 .paragraph-text:focus {
@@ -399,4 +405,8 @@ body {
   border: solid 1px;
   border-color: #eeeeee;
   margin: 0 auto;
+}
+
+.box-description {
+  padding: 20px 24px 20px 24px;
 }
