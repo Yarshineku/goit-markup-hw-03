@@ -229,3 +229,12 @@ body {
 .e-mail-footer:focus {
   color: #2196f3;
 }
+
+.img-what-we-do {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+  margin: 0 auto;
+  padding: 0;
+}
