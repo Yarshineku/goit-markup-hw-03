@@ -117,12 +117,6 @@ body {
   letter-spacing: 0.03em;
 }
 .heading-h2-2 {
-  position: absolute;
-  width: 210px;
-  height: 42px;
-  left: 695px;
-  top: 1543px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
@@ -369,4 +363,18 @@ body {
   gap: 30px;
   justify-content: center;
   padding: 0;
+}
+
+.portfolio-buttons-decoration {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+  background: #f5f4fa;
+  border-radius: 4px;
+  color: #212121;
+  border: #f5f4fa;
+  padding: 6px 25px;
 }
