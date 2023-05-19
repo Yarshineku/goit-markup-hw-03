@@ -213,3 +213,12 @@ body {
   margin-bottom: 0;
   padding: 0;
 }
+
+.e-mail-footer {
+  color: #757575;
+  text-decoration: none;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+  gap: 50px;
+}
