@@ -170,10 +170,6 @@ body {
 .ul-navigation {
   list-style: none;
   display: flex;
-  padding-left: 46px;
-  padding-top: 32px;
-  padding-bottom: 32px;
-  padding-right: 46px;
 }
 .nav-links {
   font-size: 14px;
@@ -316,4 +312,25 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
+}
+
+.agency {
+  padding-left: 46px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-right: 46px;
+}
+
+.portfolio {
+  padding-left: 93px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-right: 46px;
+}
+
+.contact {
+  padding-left: 46px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-right: 371px;
 }
