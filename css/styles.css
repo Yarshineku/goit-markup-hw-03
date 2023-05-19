@@ -319,6 +319,7 @@ body {
   padding-top: 32px;
   padding-bottom: 32px;
   padding-right: 46px;
+  text-decoration: none;
 }
 
 .portfolio {
@@ -326,6 +327,7 @@ body {
   padding-top: 32px;
   padding-bottom: 32px;
   padding-right: 46px;
+  text-decoration: none;
 }
 
 .contact {
@@ -333,4 +335,13 @@ body {
   padding-top: 32px;
   padding-bottom: 32px;
   padding-right: 371px;
+  text-decoration: none;
+}
+
+.agency,
+.portfolio,
+.contact :hover,
+.agency .portfolio,
+.contact:focus {
+  color: #2196f3;
 }
