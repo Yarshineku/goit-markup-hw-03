@@ -222,3 +222,8 @@ body {
   display: flex;
   gap: 50px;
 }
+
+.e-mail-footer:hover,
+.e-mail-footer:focus {
+  color: #2196f3;
+}
