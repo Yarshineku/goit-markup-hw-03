@@ -117,14 +117,12 @@ body {
   letter-spacing: 0.03em;
 }
 .heading-h2-2 {
-  height: 42px;
-  font-family: "Roboto";
-  font-style: normal;
   font-size: 36px;
-  line-height: 42px;
+  font-weight: 700;
   text-align: center;
+  line-height: 1;
   letter-spacing: 0.03em;
-  margin: 0 auto;
+  margin-bottom: 50px;
 }
 .e-mail {
   color: #757575;
