@@ -1,9 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
-  background: #e5e5e5;
-
+  background: #ffffff;
   width: 1600px;
-  height: 2349px;
 }
 :root {
   --brand-color: #2196f3 var(--brand-color);
